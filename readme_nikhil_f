@@ -1,0 +1,13 @@
+#============Read me===============#
+
+run code on terminal using 
+python3 filename.py for python 3    and for python 2.7 use python filename.py   on command line 
+
+install lightgbm 
+pip install lightgbm
+install imblearn
+pip install imblearn
+
+if any problem
+run code small parts wise
+copy code line and paste on python console
